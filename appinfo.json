@@ -1,0 +1,29 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "41fff46e-6842-4530-9d45-a720c51ee343",
+    "appKeys": {},
+    "longName": "Simplicity",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "Simplicity",
+    "companyName": "attzonko",
+    "watchapp": {
+        "watchface": true
+    },
+    "resources": {
+        "media": [
+            {
+                "type": "font",
+                "name": "FONT_ROBOTO_BOLD_SUBSET_49",
+                "file": "fonts/Roboto-Bold.ttf"
+            },
+            {
+                "type": "font",
+                "name": "FONT_ROBOTO_CONDENSED_21",
+                "file": "fonts/Roboto-Condensed.ttf"
+            }
+        ]
+    }
+}
